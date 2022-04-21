@@ -4,7 +4,6 @@
 </p>
 
 
-![Profile views](https://visitor-badge.glitch.me/badge?page_id=Abdalqader27)
 [![Github](https://img.shields.io/github/followers/Aditya664?label=Follow&style=social)](https://github.com/Abdalqader27)
 
 ## :sassy_man:  About me
