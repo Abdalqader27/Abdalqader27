@@ -3,9 +3,6 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Informatic+Student;DS%20|%20Algorithms%20|%20OOP%20;6%20Kyu%20on%20Atcoder;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
 </p>
 
-
-[![Github](https://img.shields.io/github/followers/Aditya664?label=Follow&style=social)](https://github.com/Abdalqader27)
-
 ## :sassy_man:  About me
 - :school: I am a `Graduated` at Faculty of Computers & Informatics at Aleppo University
 - :trophy: `Marthon` on the Syrian Arab Republic in Entrepreneurship 2020
