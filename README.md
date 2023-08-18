@@ -56,10 +56,6 @@
 
 -----
 
-  <summary><b>⚡ Recent GitHub Activity</b></summary>
-  <br/>
-   <a href="https://github.com/Abdalqader27"><img alt="Abd Alqader's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Abdalqader27&theme=react-dark" /></a>
-  <br/>
 
 
 <br/>
